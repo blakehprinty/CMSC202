@@ -1,2 +1,5 @@
 # CMSC202
- Computer Science 202 (C++)
+ UMBC Computer Science 202 (C++)
+ 
+ This is where I will be posting my projects/labs
+ 
